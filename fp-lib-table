@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "esp32devkit")(type "KiCad")(uri "G:/Faculdade/TCC/Projeto/Libraries")(options "")(descr ""))
+)
